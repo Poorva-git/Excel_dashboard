@@ -90,6 +90,6 @@ Sales-Performance-Dashboard-Excel
 
 ## 👩‍💻 Author
 
-**Riya**
+**Poorva**
 
 Final Year B.Tech Student | Aspiring Data Analyst
